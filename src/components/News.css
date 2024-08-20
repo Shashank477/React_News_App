@@ -1,0 +1,29 @@
+*{
+    background: #F6E2C9;
+    align-items: center;
+}
+.news{
+    text-align: center;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 8px;
+    border-color: #473728;
+}
+
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    color: #473728;
+}
+
+.news-two{
+    text-align: center;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #473728;
+}
+
+.head{
+    text-align: center;
+}
