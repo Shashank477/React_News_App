@@ -1,5 +1,5 @@
 import React from 'react';
-import News from './components/news';
+import News from './components/News';
 import Article from './components/Article';
 
 const App = () => {
